@@ -4,3 +4,5 @@ client.on("messageCreate", async (message) => {
 		message.reply("R1-181 is a discord bot made for the 181st Armoured Division by CT Frost-CT3838");
 	}
 });
+
+//Lol
